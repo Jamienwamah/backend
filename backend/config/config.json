@@ -1,0 +1,28 @@
+{
+  "development": {
+    "username": "default",
+    "password": "wuqvpAPsm1t4",
+    "database": "verceldb",
+    "host": "ep-ancient-band-a4znlpqt.us-east-1.aws.neon.tech",
+    "dialect": "postgresql",
+    "port": 5432
+  },
+  "test": {
+    "username": "default",
+    "password": "wuqvpAPsm1t4",
+    "database": "verceldb",
+    "host": "ep-ancient-band-a4znlpqt.us-east-1.aws.neon.tech",
+    "dialect": "postgresql",
+    "port": 5432
+  },
+  "production": {
+    "username": "default",
+    "password": "wuqvpAPsm1t4",
+    "database": "verceldb",
+    "host": "ep-ancient-band-a4znlpqt.us-east-1.aws.neon.tech",
+    "dialect": "postgresql",
+    "port": 5432
+  }
+}
+
+
